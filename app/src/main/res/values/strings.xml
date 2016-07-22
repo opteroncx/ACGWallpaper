@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ACG Wallpaper</string>
+    <string name="app_title">ACG 壁纸</string>
+    <string name="btn1">开始 Go!</string>
+    <string name="btn2">关于程序</string>
+    <string name="btn3">上一张</string>
+    <string name="btn4">下一张</string>
+    <string name="btn5">设置</string>
+</resources>
